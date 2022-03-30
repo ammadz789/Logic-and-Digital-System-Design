@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="RA16bitsim_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="RA16bitsim" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="784000001fs"></ZoomEndTime>
+      <Cursor1Time time="38265000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="116"></NameColumnWidth>
+      <ValueColumnWidth column_width="58"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="50" />
+   <wvobject fp_name="/RA16bitsim/A0" type="logic">
+      <obj_property name="ElementShortName">A0</obj_property>
+      <obj_property name="ObjectShortName">A0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A1" type="logic">
+      <obj_property name="ElementShortName">A1</obj_property>
+      <obj_property name="ObjectShortName">A1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A2" type="logic">
+      <obj_property name="ElementShortName">A2</obj_property>
+      <obj_property name="ObjectShortName">A2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A3" type="logic">
+      <obj_property name="ElementShortName">A3</obj_property>
+      <obj_property name="ObjectShortName">A3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A4" type="logic">
+      <obj_property name="ElementShortName">A4</obj_property>
+      <obj_property name="ObjectShortName">A4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A5" type="logic">
+      <obj_property name="ElementShortName">A5</obj_property>
+      <obj_property name="ObjectShortName">A5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A6" type="logic">
+      <obj_property name="ElementShortName">A6</obj_property>
+      <obj_property name="ObjectShortName">A6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A7" type="logic">
+      <obj_property name="ElementShortName">A7</obj_property>
+      <obj_property name="ObjectShortName">A7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A8" type="logic">
+      <obj_property name="ElementShortName">A8</obj_property>
+      <obj_property name="ObjectShortName">A8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A9" type="logic">
+      <obj_property name="ElementShortName">A9</obj_property>
+      <obj_property name="ObjectShortName">A9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A10" type="logic">
+      <obj_property name="ElementShortName">A10</obj_property>
+      <obj_property name="ObjectShortName">A10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A11" type="logic">
+      <obj_property name="ElementShortName">A11</obj_property>
+      <obj_property name="ObjectShortName">A11</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A12" type="logic">
+      <obj_property name="ElementShortName">A12</obj_property>
+      <obj_property name="ObjectShortName">A12</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A13" type="logic">
+      <obj_property name="ElementShortName">A13</obj_property>
+      <obj_property name="ObjectShortName">A13</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A14" type="logic">
+      <obj_property name="ElementShortName">A14</obj_property>
+      <obj_property name="ObjectShortName">A14</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/A15" type="logic">
+      <obj_property name="ElementShortName">A15</obj_property>
+      <obj_property name="ObjectShortName">A15</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B0" type="logic">
+      <obj_property name="ElementShortName">B0</obj_property>
+      <obj_property name="ObjectShortName">B0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B1" type="logic">
+      <obj_property name="ElementShortName">B1</obj_property>
+      <obj_property name="ObjectShortName">B1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B2" type="logic">
+      <obj_property name="ElementShortName">B2</obj_property>
+      <obj_property name="ObjectShortName">B2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B3" type="logic">
+      <obj_property name="ElementShortName">B3</obj_property>
+      <obj_property name="ObjectShortName">B3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B4" type="logic">
+      <obj_property name="ElementShortName">B4</obj_property>
+      <obj_property name="ObjectShortName">B4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B5" type="logic">
+      <obj_property name="ElementShortName">B5</obj_property>
+      <obj_property name="ObjectShortName">B5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B6" type="logic">
+      <obj_property name="ElementShortName">B6</obj_property>
+      <obj_property name="ObjectShortName">B6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B7" type="logic">
+      <obj_property name="ElementShortName">B7</obj_property>
+      <obj_property name="ObjectShortName">B7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B8" type="logic">
+      <obj_property name="ElementShortName">B8</obj_property>
+      <obj_property name="ObjectShortName">B8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B9" type="logic">
+      <obj_property name="ElementShortName">B9</obj_property>
+      <obj_property name="ObjectShortName">B9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B10" type="logic">
+      <obj_property name="ElementShortName">B10</obj_property>
+      <obj_property name="ObjectShortName">B10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B11" type="logic">
+      <obj_property name="ElementShortName">B11</obj_property>
+      <obj_property name="ObjectShortName">B11</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B12" type="logic">
+      <obj_property name="ElementShortName">B12</obj_property>
+      <obj_property name="ObjectShortName">B12</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B13" type="logic">
+      <obj_property name="ElementShortName">B13</obj_property>
+      <obj_property name="ObjectShortName">B13</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B14" type="logic">
+      <obj_property name="ElementShortName">B14</obj_property>
+      <obj_property name="ObjectShortName">B14</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/B15" type="logic">
+      <obj_property name="ElementShortName">B15</obj_property>
+      <obj_property name="ObjectShortName">B15</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/SUB" type="logic">
+      <obj_property name="ElementShortName">SUB</obj_property>
+      <obj_property name="ObjectShortName">SUB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C0" type="logic">
+      <obj_property name="ElementShortName">C0</obj_property>
+      <obj_property name="ObjectShortName">C0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C1" type="logic">
+      <obj_property name="ElementShortName">C1</obj_property>
+      <obj_property name="ObjectShortName">C1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C2" type="logic">
+      <obj_property name="ElementShortName">C2</obj_property>
+      <obj_property name="ObjectShortName">C2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C3" type="logic">
+      <obj_property name="ElementShortName">C3</obj_property>
+      <obj_property name="ObjectShortName">C3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C4" type="logic">
+      <obj_property name="ElementShortName">C4</obj_property>
+      <obj_property name="ObjectShortName">C4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C5" type="logic">
+      <obj_property name="ElementShortName">C5</obj_property>
+      <obj_property name="ObjectShortName">C5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C6" type="logic">
+      <obj_property name="ElementShortName">C6</obj_property>
+      <obj_property name="ObjectShortName">C6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C7" type="logic">
+      <obj_property name="ElementShortName">C7</obj_property>
+      <obj_property name="ObjectShortName">C7</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C8" type="logic">
+      <obj_property name="ElementShortName">C8</obj_property>
+      <obj_property name="ObjectShortName">C8</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C9" type="logic">
+      <obj_property name="ElementShortName">C9</obj_property>
+      <obj_property name="ObjectShortName">C9</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C10" type="logic">
+      <obj_property name="ElementShortName">C10</obj_property>
+      <obj_property name="ObjectShortName">C10</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C11" type="logic">
+      <obj_property name="ElementShortName">C11</obj_property>
+      <obj_property name="ObjectShortName">C11</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C12" type="logic">
+      <obj_property name="ElementShortName">C12</obj_property>
+      <obj_property name="ObjectShortName">C12</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C13" type="logic">
+      <obj_property name="ElementShortName">C13</obj_property>
+      <obj_property name="ObjectShortName">C13</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C14" type="logic">
+      <obj_property name="ElementShortName">C14</obj_property>
+      <obj_property name="ObjectShortName">C14</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/C15" type="logic">
+      <obj_property name="ElementShortName">C15</obj_property>
+      <obj_property name="ObjectShortName">C15</obj_property>
+   </wvobject>
+   <wvobject fp_name="/RA16bitsim/OVF" type="logic">
+      <obj_property name="ElementShortName">OVF</obj_property>
+      <obj_property name="ObjectShortName">OVF</obj_property>
+   </wvobject>
+</wave_config>
